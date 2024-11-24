@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Thimna! 👋
+
+I'm an aspiring Software Engineer. 👩‍💻
+I am currently studying Computer Science and Business Computing at the Univesity of Cape Town.
+
+I am currently working on my Software Solutions Company - Innoverxia! (You can check out the repository in my profile)
+
+Currently learning more on React and Web Development.
 
 <!--
 **ThimnaShushu/ThimnaShushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
