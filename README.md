@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Software Engineer. 👩‍💻<br>I am currently studying Computer Science and Business Computing at the Univesity of Cape Town.<br>I am currently working on my Software Solutions Company - Innoverxia! (You can check out the repository in my profile)<br>Currently learning more on React and Web Development.
+I'm an aspiring Software Engineer. 👩‍💻<br>I am currently studying Computer Science and Business Computing at the Univesity of Cape Town.<br>I am currently working on Machine Learning and Artificial Intelligence (You can check out the repository in my profile)<br>Currently learning more on React and Web Development.
 
 
 ## 🌐 Socials:
