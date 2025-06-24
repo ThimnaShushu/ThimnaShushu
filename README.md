@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Software Engineer. 👩‍💻<br>I am currently studying Computer Science and Business Computing at the Univesity of Cape Town.<br>I am currently working on Machine Learning and Artificial Intelligence <br>I am also currently learning more on React and Web Development.
+I'm an aspiring Software Engineer. 👩‍💻<br>I am currently studying Computer Science and Business Computing at the Univesity of Cape Town.<br>I am currently working on honing my skills in programming. <br>I am also currently learning more on React and Web Development.
 
 
 ## 🌐 Socials:
